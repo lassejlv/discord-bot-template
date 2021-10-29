@@ -1,0 +1,30 @@
+{
+  "name": "jeeff",
+  "version": "1.0.0",
+  "description": "My own custom discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "discord",
+    "javascript"
+  ],
+  "author": "Jeeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
