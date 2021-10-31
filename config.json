@@ -1,0 +1,34 @@
+{
+  "bot": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": ""
+  },
+
+  "guild": {
+    "id": "",
+    "channels": {
+      "welcome_channel": "",
+      "goodbye_channel": "",
+      "log_channel": "",
+      "muteRole_id": ""
+    }
+  },
+
+  "database": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
+  },
+
+  "colors": {
+    "blue": "#3498db",
+    "red": "#c0392b",
+    "yellow": "#f1c40f",
+    "purple": "#9b59b6",
+    "green": "#2ecc71",
+    "teal": "#1abc9c",
+    "dark": "#34495e"
+  }
+}
